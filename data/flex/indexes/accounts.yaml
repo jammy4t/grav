@@ -1,9 +1,0 @@
-version: '1.2'
-timestamp: 1746313622
-count: 1
-index:
-  jammy4t:
-    storage_key: jammy4t
-    storage_timestamp: 1746313622
-    key: jammy4t
-    email: jammy4t@gmail.com
